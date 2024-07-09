@@ -1,3 +1,21 @@
+body{
+    background-color: rgba(255, 192, 203, 0.418);
+    margin: 80px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    padding: none;
+}
+ul li{
+    border: 1px solid gray;
+    padding: 5px;
+    list-style: none;
+}
+input{
+    border: none; width:100%;
+}
 
 /* 
 
